@@ -42,7 +42,7 @@ CNN with:
 
 ## Results
 
-Validation Accuracy: 51% (Still improving)
+Validation Accuracy: 58.4% (Still improving)
 
 ## Demo Gallery
 
