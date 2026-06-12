@@ -44,6 +44,16 @@ CNN with:
 
 Validation Accuracy: 51% (Still improving)
 
+## Demo Gallery
+
+<img src="screenshots/img1.png" width="300">
+<img src="screenshots/img2.png" width="300">
+<img src="screenshots/img3.png" width="300">
+
+<img src="screenshots/img4.png" width="300">
+<img src="screenshots/img5.png" width="300">
+<img src="screenshots/img6.png" width="300">
+
 ## Run
 
 ```bash
