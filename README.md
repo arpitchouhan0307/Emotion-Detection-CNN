@@ -46,13 +46,13 @@ Validation Accuracy: 51% (Still improving)
 
 ## Demo Gallery
 
-<img src="screenshots/img1.png" width="300">
-<img src="screenshots/img2.png" width="300">
-<img src="screenshots/img3.png" width="300">
-
-<img src="screenshots/img4.png" width="300">
-<img src="screenshots/img5.png" width="300">
-<img src="screenshots/img6.png" width="300">
+<img src="Screenshots/img1.png" width="300">
+<img src="Screenshots/img4.png" width="300">
+<img src="Screenshots/img5.png" width="300">
+<img src="Screenshots/img8.png" width="300">
+<img src="Screenshots/img11.png" width="300">
+<img src="Screenshots/img13.png" width="300">
+<img src="Screenshots/img14.png" width="300">
 
 ## Run
 
